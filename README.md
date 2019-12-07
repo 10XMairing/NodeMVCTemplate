@@ -15,8 +15,9 @@ npm run dev
 
 Build and Run
 
-``
+```
 npm run build
 
 npm start
-``
+
+```
