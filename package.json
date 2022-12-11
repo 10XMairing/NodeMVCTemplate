@@ -23,7 +23,7 @@
     "email-templates": "^6.0.4",
     "es6-shim": "^0.35.5",
     "event-dispatch": "^0.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.6.6",
     "mongoose-autopopulate": "^0.9.1",
